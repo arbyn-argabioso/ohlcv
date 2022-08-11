@@ -1,0 +1,4 @@
+# This is required by tox so that the requirements directory and
+# all of its contents will be included in the tox environment
+include requirements/**.txt
+include ohlcv/data/**.json

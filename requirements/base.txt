@@ -1,0 +1,6 @@
+ccxt~=1.51
+DateTimeRange~=1.2
+pandas>=1.4.3
+python-dateutil~=2.8
+python-Levenshtein~=0.12
+thefuzz~=0.19

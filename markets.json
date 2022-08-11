@@ -1,0 +1,917 @@
+{
+  "btcusd": {
+    "id": "btcusd",
+    "symbol": "BTC/USD",
+    "start": 1313671020000
+  },
+  "btceur": {
+    "id": "btceur",
+    "symbol": "BTC/EUR",
+    "start": 1313671020000
+  },
+  "btcgbp": {
+    "id": "btcgbp",
+    "symbol": "BTC/GBP",
+    "start": 1590659100000
+  },
+  "btcpax": {
+    "id": "btcpax",
+    "symbol": "BTC/PAX",
+    "start": 1590655740000
+  },
+  "gbpusd": {
+    "id": "gbpusd",
+    "symbol": "GBP/USD",
+    "start": 1590667200000
+  },
+  "gbpeur": {
+    "id": "gbpeur",
+    "symbol": "GBP/EUR",
+    "start": 1590667200000
+  },
+  "eurusd": {
+    "id": "eurusd",
+    "symbol": "EUR/USD",
+    "start": 1313625600000
+  },
+  "xrpusd": {
+    "id": "xrpusd",
+    "symbol": "XRP/USD",
+    "start": 1481895240000
+  },
+  "xrpeur": {
+    "id": "xrpeur",
+    "symbol": "XRP/EUR",
+    "start": 1483438020000
+  },
+  "xrpbtc": {
+    "id": "xrpbtc",
+    "symbol": "XRP/BTC",
+    "start": 1486733940000
+  },
+  "xrpgbp": {
+    "id": "xrpgbp",
+    "symbol": "XRP/GBP",
+    "start": 1590661440000
+  },
+  "xrppax": {
+    "id": "xrppax",
+    "symbol": "XRP/PAX",
+    "start": 1590657540000
+  },
+  "ltcbtc": {
+    "id": "ltcbtc",
+    "symbol": "LTC/BTC",
+    "start": 1497616860000
+  },
+  "ltcusd": {
+    "id": "ltcusd",
+    "symbol": "LTC/USD",
+    "start": 1497611340000
+  },
+  "ltceur": {
+    "id": "ltceur",
+    "symbol": "LTC/EUR",
+    "start": 1497615420000
+  },
+  "ltcgbp": {
+    "id": "ltcgbp",
+    "symbol": "LTC/GBP",
+    "start": 1590667200000
+  },
+  "ethbtc": {
+    "id": "ethbtc",
+    "symbol": "ETH/BTC",
+    "start": 1502903460000
+  },
+  "ethusd": {
+    "id": "ethusd",
+    "symbol": "ETH/USD",
+    "start": 1502901900000
+  },
+  "etheur": {
+    "id": "etheur",
+    "symbol": "ETH/EUR",
+    "start": 1502902320000
+  },
+  "ethgbp": {
+    "id": "ethgbp",
+    "symbol": "ETH/GBP",
+    "start": 1590667200000
+  },
+  "ethpax": {
+    "id": "ethpax",
+    "symbol": "ETH/PAX",
+    "start": 1590657120000
+  },
+  "bchusd": {
+    "id": "bchusd",
+    "symbol": "BCH/USD",
+    "start": 1512399780000
+  },
+  "bcheur": {
+    "id": "bcheur",
+    "symbol": "BCH/EUR",
+    "start": 1512402360000
+  },
+  "bchbtc": {
+    "id": "bchbtc",
+    "symbol": "BCH/BTC",
+    "start": 1512403920000
+  },
+  "bchgbp": {
+    "id": "bchgbp",
+    "symbol": "BCH/GBP",
+    "start": 1590659100000
+  },
+  "paxusd": {
+    "id": "paxusd",
+    "symbol": "PAX/USD",
+    "start": 1590655320000
+  },
+  "paxeur": {
+    "id": "paxeur",
+    "symbol": "PAX/EUR",
+    "start": 1590654960000
+  },
+  "paxgbp": {
+    "id": "paxgbp",
+    "symbol": "PAX/GBP",
+    "start": 1590660480000
+  },
+  "xlmbtc": {
+    "id": "xlmbtc",
+    "symbol": "XLM/BTC",
+    "start": 1590652380000
+  },
+  "xlmusd": {
+    "id": "xlmusd",
+    "symbol": "XLM/USD",
+    "start": 1590654660000
+  },
+  "xlmeur": {
+    "id": "xlmeur",
+    "symbol": "XLM/EUR",
+    "start": 1590653700000
+  },
+  "xlmgbp": {
+    "id": "xlmgbp",
+    "symbol": "XLM/GBP",
+    "start": 1590660780000
+  },
+  "linkusd": {
+    "id": "linkusd",
+    "symbol": "LINK/USD",
+    "start": 1603096080000
+  },
+  "linkeur": {
+    "id": "linkeur",
+    "symbol": "LINK/EUR",
+    "start": 1603096140000
+  },
+  "linkgbp": {
+    "id": "linkgbp",
+    "symbol": "LINK/GBP",
+    "start": 1603096260000
+  },
+  "linkbtc": {
+    "id": "linkbtc",
+    "symbol": "LINK/BTC",
+    "start": 1603096380000
+  },
+  "linketh": {
+    "id": "linketh",
+    "symbol": "LINK/ETH",
+    "start": 1603096440000
+  },
+  "omgusd": {
+    "id": "omgusd",
+    "symbol": "OMG/USD",
+    "start": 1603100040000
+  },
+  "omgeur": {
+    "id": "omgeur",
+    "symbol": "OMG/EUR",
+    "start": 1603100100000
+  },
+  "omggbp": {
+    "id": "omggbp",
+    "symbol": "OMG/GBP",
+    "start": 1603100160000
+  },
+  "omgbtc": {
+    "id": "omgbtc",
+    "symbol": "OMG/BTC",
+    "start": 1603100220000
+  },
+  "usdcusd": {
+    "id": "usdcusd",
+    "symbol": "USDC/USD",
+    "start": 1603098420000
+  },
+  "usdceur": {
+    "id": "usdceur",
+    "symbol": "USDC/EUR",
+    "start": 1603098480000
+  },
+  "btcusdc": {
+    "id": "btcusdc",
+    "symbol": "BTC/USDC",
+    "start": 1603098300000
+  },
+  "ethusdc": {
+    "id": "ethusdc",
+    "symbol": "ETH/USDC",
+    "start": 1603098360000
+  },
+  "eth2eth": {
+    "id": "eth2eth",
+    "symbol": "ETH2/ETH",
+    "start": 1633606740000
+  },
+  "aaveusd": {
+    "id": "aaveusd",
+    "symbol": "AAVE/USD",
+    "start": 1618563420000
+  },
+  "aaveeur": {
+    "id": "aaveeur",
+    "symbol": "AAVE/EUR",
+    "start": 1618563480000
+  },
+  "aavebtc": {
+    "id": "aavebtc",
+    "symbol": "AAVE/BTC",
+    "start": 1618563540000
+  },
+  "batusd": {
+    "id": "batusd",
+    "symbol": "BAT/USD",
+    "start": 1618564620000
+  },
+  "bateur": {
+    "id": "bateur",
+    "symbol": "BAT/EUR",
+    "start": 1618564740000
+  },
+  "batbtc": {
+    "id": "batbtc",
+    "symbol": "BAT/BTC",
+    "start": 1618564800000
+  },
+  "umausd": {
+    "id": "umausd",
+    "symbol": "UMA/USD",
+    "start": 1618565820000
+  },
+  "umaeur": {
+    "id": "umaeur",
+    "symbol": "UMA/EUR",
+    "start": 1618565880000
+  },
+  "umabtc": {
+    "id": "umabtc",
+    "symbol": "UMA/BTC",
+    "start": 1618566000000
+  },
+  "daiusd": {
+    "id": "daiusd",
+    "symbol": "DAI/USD",
+    "start": 1614936660000
+  },
+  "kncusd": {
+    "id": "kncusd",
+    "symbol": "KNC/USD",
+    "start": 1613641560000
+  },
+  "knceur": {
+    "id": "knceur",
+    "symbol": "KNC/EUR",
+    "start": 1613641680000
+  },
+  "kncbtc": {
+    "id": "kncbtc",
+    "symbol": "KNC/BTC",
+    "start": 1613641740000
+  },
+  "mkrusd": {
+    "id": "mkrusd",
+    "symbol": "MKR/USD",
+    "start": 1613642640000
+  },
+  "mkreur": {
+    "id": "mkreur",
+    "symbol": "MKR/EUR",
+    "start": 1613642700000
+  },
+  "mkrbtc": {
+    "id": "mkrbtc",
+    "symbol": "MKR/BTC",
+    "start": 1613642760000
+  },
+  "zrxusd": {
+    "id": "zrxusd",
+    "symbol": "ZRX/USD",
+    "start": 1613643720000
+  },
+  "zrxeur": {
+    "id": "zrxeur",
+    "symbol": "ZRX/EUR",
+    "start": 1613643840000
+  },
+  "zrxbtc": {
+    "id": "zrxbtc",
+    "symbol": "ZRX/BTC",
+    "start": 1613643840000
+  },
+  "gusdusd": {
+    "id": "gusdusd",
+    "symbol": "GUSD/USD",
+    "start": 1614936540000
+  },
+  "algousd": {
+    "id": "algousd",
+    "symbol": "ALGO/USD",
+    "start": 1620910500000
+  },
+  "algoeur": {
+    "id": "algoeur",
+    "symbol": "ALGO/EUR",
+    "start": 1620910560000
+  },
+  "algobtc": {
+    "id": "algobtc",
+    "symbol": "ALGO/BTC",
+    "start": 1620910620000
+  },
+  "audiousd": {
+    "id": "audiousd",
+    "symbol": "AUDIO/USD",
+    "start": 1620908400000
+  },
+  "audioeur": {
+    "id": "audioeur",
+    "symbol": "AUDIO/EUR",
+    "start": 1620908400000
+  },
+  "audiobtc": {
+    "id": "audiobtc",
+    "symbol": "AUDIO/BTC",
+    "start": 1620908460000
+  },
+  "crvusd": {
+    "id": "crvusd",
+    "symbol": "CRV/USD",
+    "start": 1620909480000
+  },
+  "crveur": {
+    "id": "crveur",
+    "symbol": "CRV/EUR",
+    "start": 1620909480000
+  },
+  "crvbtc": {
+    "id": "crvbtc",
+    "symbol": "CRV/BTC",
+    "start": 1620909540000
+  },
+  "snxusd": {
+    "id": "snxusd",
+    "symbol": "SNX/USD",
+    "start": 1620302400000
+  },
+  "snxeur": {
+    "id": "snxeur",
+    "symbol": "SNX/EUR",
+    "start": 1620302460000
+  },
+  "snxbtc": {
+    "id": "snxbtc",
+    "symbol": "SNX/BTC",
+    "start": 1620302580000
+  },
+  "uniusd": {
+    "id": "uniusd",
+    "symbol": "UNI/USD",
+    "start": 1620129780000
+  },
+  "unieur": {
+    "id": "unieur",
+    "symbol": "UNI/EUR",
+    "start": 1620129900000
+  },
+  "unibtc": {
+    "id": "unibtc",
+    "symbol": "UNI/BTC",
+    "start": 1620129960000
+  },
+  "yfiusd": {
+    "id": "yfiusd",
+    "symbol": "YFI/USD",
+    "start": 1620216300000
+  },
+  "yfieur": {
+    "id": "yfieur",
+    "symbol": "YFI/EUR",
+    "start": 1620216420000
+  },
+  "yfibtc": {
+    "id": "yfibtc",
+    "symbol": "YFI/BTC",
+    "start": 1620216480000
+  },
+  "compusd": {
+    "id": "compusd",
+    "symbol": "COMP/USD",
+    "start": 1623331080000
+  },
+  "compeur": {
+    "id": "compeur",
+    "symbol": "COMP/EUR",
+    "start": 1623331080000
+  },
+  "compbtc": {
+    "id": "compbtc",
+    "symbol": "COMP/BTC",
+    "start": 1623845340000
+  },
+  "grtusd": {
+    "id": "grtusd",
+    "symbol": "GRT/USD",
+    "start": 1623331800000
+  },
+  "grteur": {
+    "id": "grteur",
+    "symbol": "GRT/EUR",
+    "start": 1623331800000
+  },
+  "lrcusd": {
+    "id": "lrcusd",
+    "symbol": "LRC/USD",
+    "start": 1654248420000
+  },
+  "lrceur": {
+    "id": "lrceur",
+    "symbol": "LRC/EUR",
+    "start": 1654248420000
+  },
+  "usdtusd": {
+    "id": "usdtusd",
+    "symbol": "USDT/USD",
+    "start": 1623329400000
+  },
+  "usdteur": {
+    "id": "usdteur",
+    "symbol": "USDT/EUR",
+    "start": 1623329460000
+  },
+  "usdcusdt": {
+    "id": "usdcusdt",
+    "symbol": "USDC/USDT",
+    "start": 1623329640000
+  },
+  "btcusdt": {
+    "id": "btcusdt",
+    "symbol": "BTC/USDT",
+    "start": 1623329700000
+  },
+  "ethusdt": {
+    "id": "ethusdt",
+    "symbol": "ETH/USDT",
+    "start": 1623329760000
+  },
+  "xrpusdt": {
+    "id": "xrpusdt",
+    "symbol": "XRP/USDT",
+    "start": 1623329820000
+  },
+  "eurteur": {
+    "id": "eurteur",
+    "symbol": "EURT/EUR",
+    "start": 1626348000000
+  },
+  "eurtusd": {
+    "id": "eurtusd",
+    "symbol": "EURT/USD",
+    "start": 1626347940000
+  },
+  "manausd": {
+    "id": "manausd",
+    "symbol": "MANA/USD",
+    "start": 1654248360000
+  },
+  "manaeur": {
+    "id": "manaeur",
+    "symbol": "MANA/EUR",
+    "start": 1654248360000
+  },
+  "maticusd": {
+    "id": "maticusd",
+    "symbol": "MATIC/USD",
+    "start": 1627558740000
+  },
+  "maticeur": {
+    "id": "maticeur",
+    "symbol": "MATIC/EUR",
+    "start": 1627558800000
+  },
+  "sushiusd": {
+    "id": "sushiusd",
+    "symbol": "SUSHI/USD",
+    "start": 1627560240000
+  },
+  "sushieur": {
+    "id": "sushieur",
+    "symbol": "SUSHI/EUR",
+    "start": 1627560420000
+  },
+  "chzusd": {
+    "id": "chzusd",
+    "symbol": "CHZ/USD",
+    "start": 1629377220000
+  },
+  "chzeur": {
+    "id": "chzeur",
+    "symbol": "CHZ/EUR",
+    "start": 1629377280000
+  },
+  "enjusd": {
+    "id": "enjusd",
+    "symbol": "ENJ/USD",
+    "start": 1629376320000
+  },
+  "enjeur": {
+    "id": "enjeur",
+    "symbol": "ENJ/EUR",
+    "start": 1629376380000
+  },
+  "hbarusd": {
+    "id": "hbarusd",
+    "symbol": "HBAR/USD",
+    "start": 1633605660000
+  },
+  "hbareur": {
+    "id": "hbareur",
+    "symbol": "HBAR/EUR",
+    "start": 1633605720000
+  },
+  "alphausd": {
+    "id": "alphausd",
+    "symbol": "ALPHA/USD",
+    "start": 1630654020000
+  },
+  "alphaeur": {
+    "id": "alphaeur",
+    "symbol": "ALPHA/EUR",
+    "start": 1630654380000
+  },
+  "axsusd": {
+    "id": "axsusd",
+    "symbol": "AXS/USD",
+    "start": 1631792940000
+  },
+  "axseur": {
+    "id": "axseur",
+    "symbol": "AXS/EUR",
+    "start": 1631793000000
+  },
+  "fttusd": {
+    "id": "fttusd",
+    "symbol": "FTT/USD",
+    "start": 1631102400000
+  },
+  "ftteur": {
+    "id": "ftteur",
+    "symbol": "FTT/EUR",
+    "start": 1631102460000
+  },
+  "sandusd": {
+    "id": "sandusd",
+    "symbol": "SAND/USD",
+    "start": 1631792040000
+  },
+  "sandeur": {
+    "id": "sandeur",
+    "symbol": "SAND/EUR",
+    "start": 1631792220000
+  },
+  "storjusd": {
+    "id": "storjusd",
+    "symbol": "STORJ/USD",
+    "start": 1630664820000
+  },
+  "storjeur": {
+    "id": "storjeur",
+    "symbol": "STORJ/EUR",
+    "start": 1631189160000
+  },
+  "adausd": {
+    "id": "adausd",
+    "symbol": "ADA/USD",
+    "start": 1637140680000
+  },
+  "adaeur": {
+    "id": "adaeur",
+    "symbol": "ADA/EUR",
+    "start": 1637140800000
+  },
+  "adabtc": {
+    "id": "adabtc",
+    "symbol": "ADA/BTC",
+    "start": 1637140920000
+  },
+  "fetusd": {
+    "id": "fetusd",
+    "symbol": "FET/USD",
+    "start": 1634892300000
+  },
+  "feteur": {
+    "id": "feteur",
+    "symbol": "FET/EUR",
+    "start": 1634892360000
+  },
+  "sklusd": {
+    "id": "sklusd",
+    "symbol": "SKL/USD",
+    "start": 1634892960000
+  },
+  "skleur": {
+    "id": "skleur",
+    "symbol": "SKL/EUR",
+    "start": 1634893020000
+  },
+  "celusd": {
+    "id": "celusd",
+    "symbol": "CEL/USD",
+    "start": 1636027800000
+  },
+  "celeur": {
+    "id": "celeur",
+    "symbol": "CEL/EUR",
+    "start": 1636027860000
+  },
+  "slpusd": {
+    "id": "slpusd",
+    "symbol": "SLP/USD",
+    "start": 1637234520000
+  },
+  "slpeur": {
+    "id": "slpeur",
+    "symbol": "SLP/EUR",
+    "start": 1637234580000
+  },
+  "sxpusd": {
+    "id": "sxpusd",
+    "symbol": "SXP/USD",
+    "start": 1636027380000
+  },
+  "sxpeur": {
+    "id": "sxpeur",
+    "symbol": "SXP/EUR",
+    "start": 1636027440000
+  },
+  "sgbusd": {
+    "id": "sgbusd",
+    "symbol": "SGB/USD",
+    "start": 1638887160000
+  },
+  "sgbeur": {
+    "id": "sgbeur",
+    "symbol": "SGB/EUR",
+    "start": 1638887340000
+  },
+  "avaxusd": {
+    "id": "avaxusd",
+    "symbol": "AVAX/USD",
+    "start": 1646742900000
+  },
+  "avaxeur": {
+    "id": "avaxeur",
+    "symbol": "AVAX/EUR",
+    "start": 1646743080000
+  },
+  "dydxusd": {
+    "id": "dydxusd",
+    "symbol": "DYDX/USD",
+    "start": 1638892320000
+  },
+  "dydxeur": {
+    "id": "dydxeur",
+    "symbol": "DYDX/EUR",
+    "start": 1638892500000
+  },
+  "ftmusd": {
+    "id": "ftmusd",
+    "symbol": "FTM/USD",
+    "start": 1638892560000
+  },
+  "ftmeur": {
+    "id": "ftmeur",
+    "symbol": "FTM/EUR",
+    "start": 1638892560000
+  },
+  "shibusd": {
+    "id": "shibusd",
+    "symbol": "SHIB/USD",
+    "start": 1638892740000
+  },
+  "shibeur": {
+    "id": "shibeur",
+    "symbol": "SHIB/EUR",
+    "start": 1638892740000
+  },
+  "ampusd": {
+    "id": "ampusd",
+    "symbol": "AMP/USD",
+    "start": 1641557040000
+  },
+  "ampeur": {
+    "id": "ampeur",
+    "symbol": "AMP/EUR",
+    "start": 1641557220000
+  },
+  "ensusd": {
+    "id": "ensusd",
+    "symbol": "ENS/USD",
+    "start": 1654248240000
+  },
+  "enseur": {
+    "id": "enseur",
+    "symbol": "ENS/EUR",
+    "start": 1654248300000
+  },
+  "galausd": {
+    "id": "galausd",
+    "symbol": "GALA/USD",
+    "start": 1638892620000
+  },
+  "galaeur": {
+    "id": "galaeur",
+    "symbol": "GALA/EUR",
+    "start": 1638892620000
+  },
+  "perpusd": {
+    "id": "perpusd",
+    "symbol": "PERP/USD",
+    "start": 1638892680000
+  },
+  "perpeur": {
+    "id": "perpeur",
+    "symbol": "PERP/EUR",
+    "start": 1638892680000
+  },
+  "wbtcbtc": {
+    "id": "wbtcbtc",
+    "symbol": "WBTC/BTC",
+    "start": 1646743140000
+  },
+  "ctsiusd": {
+    "id": "ctsiusd",
+    "symbol": "CTSI/USD",
+    "start": 1647961620000
+  },
+  "ctsieur": {
+    "id": "ctsieur",
+    "symbol": "CTSI/EUR",
+    "start": 1647961680000
+  },
+  "cvxusd": {
+    "id": "cvxusd",
+    "symbol": "CVX/USD",
+    "start": 1647961800000
+  },
+  "cvxeur": {
+    "id": "cvxeur",
+    "symbol": "CVX/EUR",
+    "start": 1647961860000
+  },
+  "imxusd": {
+    "id": "imxusd",
+    "symbol": "IMX/USD",
+    "start": 1647961860000
+  },
+  "imxeur": {
+    "id": "imxeur",
+    "symbol": "IMX/EUR",
+    "start": 1648551600000
+  },
+  "nexousd": {
+    "id": "nexousd",
+    "symbol": "NEXO/USD",
+    "start": 1647961740000
+  },
+  "nexoeur": {
+    "id": "nexoeur",
+    "symbol": "NEXO/EUR",
+    "start": 1647961740000
+  },
+  "antusd": {
+    "id": "antusd",
+    "symbol": "ANT/USD",
+    "start": 1651216740000
+  },
+  "anteur": {
+    "id": "anteur",
+    "symbol": "ANT/EUR",
+    "start": 1649937060000
+  },
+  "godsusd": {
+    "id": "godsusd",
+    "symbol": "GODS/USD",
+    "start": 1649937060000
+  },
+  "godseur": {
+    "id": "godseur",
+    "symbol": "GODS/EUR",
+    "start": 1649937060000
+  },
+  "radusd": {
+    "id": "radusd",
+    "symbol": "RAD/USD",
+    "start": 1649937000000
+  },
+  "radeur": {
+    "id": "radeur",
+    "symbol": "RAD/EUR",
+    "start": 1649937000000
+  },
+  "bandusd": {
+    "id": "bandusd",
+    "symbol": "BAND/USD",
+    "start": 1652363820000
+  },
+  "bandeur": {
+    "id": "bandeur",
+    "symbol": "BAND/EUR",
+    "start": 1652363880000
+  },
+  "injusd": {
+    "id": "injusd",
+    "symbol": "INJ/USD",
+    "start": 1652365140000
+  },
+  "injeur": {
+    "id": "injeur",
+    "symbol": "INJ/EUR",
+    "start": 1652364360000
+  },
+  "rlyusd": {
+    "id": "rlyusd",
+    "symbol": "RLY/USD",
+    "start": 1652365020000
+  },
+  "rlyeur": {
+    "id": "rlyeur",
+    "symbol": "RLY/EUR",
+    "start": 1653039420000
+  },
+  "rndrusd": {
+    "id": "rndrusd",
+    "symbol": "RNDR/USD",
+    "start": 1652364720000
+  },
+  "rndreur": {
+    "id": "rndreur",
+    "symbol": "RNDR/EUR",
+    "start": 1652364720000
+  },
+  "vegausd": {
+    "id": "vegausd",
+    "symbol": "VEGA/USD",
+    "start": 1652364840000
+  },
+  "vegaeur": {
+    "id": "vegaeur",
+    "symbol": "VEGA/EUR",
+    "start": 1652364840000
+  },
+  "1inchusd": {
+    "id": "1inchusd",
+    "symbol": "1INCH/USD",
+    "start": 1652363760000
+  },
+  "1incheur": {
+    "id": "1incheur",
+    "symbol": "1INCH/EUR",
+    "start": 1652363760000
+  },
+  "apeusd": {
+    "id": "apeusd",
+    "symbol": "APE/USD",
+    "start": 1654774620000
+  },
+  "apeeur": {
+    "id": "apeeur",
+    "symbol": "APE/EUR",
+    "start": 1655207880000
+  },
+  "mplusd": {
+    "id": "mplusd",
+    "symbol": "MPL/USD",
+    "start": 1655207520000
+  },
+  "mpleur": {
+    "id": "mpleur",
+    "symbol": "MPL/EUR",
+    "start": 1655217840000
+  }
+}

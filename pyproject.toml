@@ -1,0 +1,34 @@
+# pyproject.toml is Python's default-ish
+# configuration file It is used by some
+# of our dev tools:
+#  - black
+#  - pytest
+
+title = "Python Project Configuration"
+
+[tool.black]
+py37 = true
+line-length = 79
+include = '\.pyi?$'
+exclude = '''
+/(
+    \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | _build
+  | buck-out
+  | build
+  | dist
+
+  # The following are specific to Black, you probably don't want those.
+  | blib2to3
+)/'''
+
+[tool.pytest.ini_options]
+minversion = "6.0"
+addopts = "--cov ohlcv --cov-report html --ignore=dev*.py -rv -vv --disable-warnings"
+testpaths = [
+    "tests",
+]

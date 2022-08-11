@@ -1,0 +1,5 @@
+-r ./base.txt
+pylint
+pytest-cov
+pytest-mock
+tox
